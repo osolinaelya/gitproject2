@@ -1,7 +1,7 @@
 #Osokina Elya
 
 def my_function():
-    print('нужно решать задачи')
+    print('Ура! Проекты сданы!')
 
 
 def main():
